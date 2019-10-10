@@ -1,0 +1,22 @@
+{
+  "name": "md2pdf",
+  "version": "1.0.0",
+  "description": "node实战",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1185922395/md2pdf.git"
+  },
+  "author": "jessie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1185922395/md2pdf/issues"
+  },
+  "homepage": "https://github.com/1185922395/md2pdf#readme",
+  "dependencies": {
+    "md-directory": "^1.0.2"
+  }
+}
