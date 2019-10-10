@@ -4,10 +4,6 @@ date: 2019-10-9 19:18:23
 tags: chrome开发者工具
 categories: 学习手册
 ---
-** {{ title }}：** <Excerpt in index | 首页摘要>
-工具善其事，必先利其器~
-<!-- more -->
-<The rest of contents | 余下全文>
 
 ## Chrome Developer Tools调试小技巧
 
