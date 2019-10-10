@@ -1,8 +1,5 @@
 ---
 title: chrome开发者工具调试小技巧
-date: 2019-10-9 19:18:23
-tags: chrome开发者工具
-categories: 学习手册
 ---
 
 ## Chrome Developer Tools调试小技巧
